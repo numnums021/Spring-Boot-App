@@ -1,13 +1,13 @@
-package com.danya.springboot.springboot;
+package com.danya.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SApplication {
+public class SpringData {
 
     public static void main(String[] args) {
-        SpringApplication.run(SApplication.class, args);
+        SpringApplication.run(SpringData.class, args);
     }
 
 }
